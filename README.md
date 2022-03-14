@@ -2,7 +2,7 @@
 
 > A series of arduino codes where you can test your 8x8 LED matrix display.
 
-![header](https://raw.githubusercontent.com/jorgeeldis/robostoa/main/robostoaheader.png)
+![header](https://raw.githubusercontent.com/jorgeeldis/max72xxtests/main/maxheader.png)
 
 ## Requirements
 
